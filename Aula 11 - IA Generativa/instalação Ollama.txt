@@ -1,0 +1,3 @@
+Baixe e instale o Ollama: https://ollama.com/download
+
+Após instalado, abra o cmd e digite: ollama run llama3.1
